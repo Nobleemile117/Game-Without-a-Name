@@ -7,3 +7,6 @@ Game Without a Name
 
 ##Respuesta 
 De un laberinto.
+
+##Diagrama de clases
+diagrama de clases.png
