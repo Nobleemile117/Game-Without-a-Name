@@ -8,7 +8,7 @@ Game Without a Name
 ## Respuesta 
 De un laberinto.
 
-##¿Cuál es el publico objetivo?
+## ¿Cuál es el publico objetivo?
 
 ## Respuesta
 Es un publico mas al estilo Retro, ya que lo que intentamos 
