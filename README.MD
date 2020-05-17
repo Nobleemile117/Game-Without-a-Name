@@ -8,7 +8,8 @@ The Maze is a Lie
 ## Respuesta 
 De un laberinto.
 
-## ¿Cuál es el publico objetivo?
+## Pregunta 
+¿Cuál es el publico objetivo?
 
 ## Respuesta
 Es un publico mas al estilo Retro, ya que lo que intentamos 
