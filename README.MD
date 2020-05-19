@@ -1,5 +1,5 @@
 ## Titulo 
-Game Without a Name
+The Maze is a Lie
 
 
 ## pregunta
@@ -8,7 +8,8 @@ Game Without a Name
 ## Respuesta 
 De un laberinto.
 
-## ¿Cuál es el publico objetivo?
+## Pregunta 
+¿Cuál es el publico objetivo?
 
 ## Respuesta
 Es un publico mas al estilo Retro, ya que lo que intentamos 
